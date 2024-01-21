@@ -41,7 +41,7 @@
 
 ---
 
-### What I’m working lately
+### Stats I’m working lately
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2048%20mins-blue)
 
