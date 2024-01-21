@@ -2,7 +2,7 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,  I'm  cielaber ! </h1>
   <h3>A <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  who enjoys 📸 and 🎧.</h3>
   <h3 valign="center"><img src="https://komarev.com/ghpvc/?username=cielaber&label=Visitor_number&color=brightgreen&style=flat&logo=github" alt="gtihub-visitors" />  Welcome, but there's not much here yet ! </h3>
-  <h3>only the following <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
+  <h3>just the following <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 </div>
 
 ---
