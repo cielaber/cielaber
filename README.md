@@ -35,9 +35,9 @@
 ![Static Badge](https://img.shields.io/badge/Vite-%236E9F18?logo=vite&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Echarts-%23AA344D?logo=apacheecharts&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Less-%231D365D?logo=less&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?logo=sass&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=ffffff)
 
 ---
 
