@@ -43,7 +43,7 @@
 
 ### Stats I’m working lately
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C451%20hrs%2029%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -61,13 +61,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 23 mins       █████████████░░░░░░░░░░░░   51.75 % 
+Go                       1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+SCSS                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
