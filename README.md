@@ -20,9 +20,12 @@
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Vue-%234FC08D?logo=vuedotjs&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Electron-%2347848F?logo=electron&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Koa-%2333333D?logo=koa&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Next-%23000000?logo=nextdotjs&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?logo=go&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=ffffff)
@@ -31,6 +34,8 @@
 ![Static Badge](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/S3-%23569A31?logo=amazons3&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/MQTT-%23660066?logo=mqtt&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Prometheus-%23E6522C?logo=prometheus&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Grafana-%23F46800?logo=grafana&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/Vite-%236E9F18?logo=vite&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Rollup-%23EC4A3F?logo=rollupdotjs&logoColor=ffffff)
@@ -38,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Less-%231D365D?logo=less&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Sass-%23CC6699?logo=sass&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2306B6D4?logo=tailwindcss&logoColor=ffffff)
 
 ---
 
