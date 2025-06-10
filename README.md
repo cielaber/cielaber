@@ -28,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/Next-%23000000?logo=nextdotjs&logoColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/Golang-%2300ADD8?logo=go&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=ffffff)
