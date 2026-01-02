@@ -50,32 +50,5 @@
 
 ### Stats I’m working lately
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C224%20hrs%2026%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-🌆 Daytime                91 commits          ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-🌃 Evening                198 commits         ███████████████░░░░░░░░░░   58.75 % 
-🌙 Night                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
